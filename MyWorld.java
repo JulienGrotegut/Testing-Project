@@ -8,5 +8,7 @@ public class MyWorld extends World
         Robot r1 = new Robot(20, 400, "Bob");
         
         addObject(r1, 100, 100);
+        
+        System.out.println("Hello -S");
     }
 }
